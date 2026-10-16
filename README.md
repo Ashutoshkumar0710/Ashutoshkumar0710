@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Ashutosh Kumar 👋
 
-<!--
-**Ashutoshkumar0710/Ashutoshkumar0710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech CSE (AI & ML)** student at Rungta College of Engineering and Technology (Graduating 2027)
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔭 Working on **Applied AI/ML Solutions** & **Interactive Web Applications**
+- 🛠️ **Languages & Frameworks:** Python, Java, PostgreSQL, PyTorch, Scikit-learn, Pandas, NumPy, Streamlit
+- 🎯 **Featured Projects:**
+  - **Fake News Prediction System:** High-accuracy NLP pipeline using TF-IDF & Logistic Regression
+  - **Software Developer Salary Prediction:** Interactive Streamlit web app using ML models
+- 🏆 **Achievements:** 220+ LeetCode problems solved | 4★ Python on HackerRank | CodeChef Badges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me:
+- 💼 **LinkedIn:** [linkedin.com/in/ashutosh-kumar-51776529b](https://linkedin.com/in/ashutosh-kumar-51776529b/)
+- 📧 **Email:** ashutoshsir777@gmail.com
